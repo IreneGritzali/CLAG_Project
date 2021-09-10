@@ -3,3 +3,19 @@ nav.bg-lime {
     
 }
 
+.container-custom {
+    padding-top: 3em;
+}
+
+.video-container {
+    text-align: center;
+}
+
+nav.bg-green {
+    background-color: #e2ffed!important;
+    
+}
+
+.dropdown-menu {
+
+}
